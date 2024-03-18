@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="69px" viewBox="0 0 67 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 18</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.902000 0 0 0 0 0.000000 0 0 0 0 0.494000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <polygon id="path-2" points="0 63 61 63 61 0 0 0"></polygon>
+    </defs>
+    <g id="🛠-symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-18" transform="translate(-11.000000, 0.000000)" filter="">
+            <g transform="translate(14.000000, 3.000000)" id="Group-17">
+                <path d="M48.7334833,2.5 L12.2665167,2.5 C4.13790465,2.5 -2.5,9.12969665 -2.5,17.2525853 L-2.5,50.7474147 C-2.5,58.8703034 4.13790465,65.5 12.2665167,65.5 L48.7334833,65.5 C56.8620953,65.5 63.5,58.8703034 63.5,50.7474147 L63.5,17.2525853 C63.5,9.12969665 56.8620953,2.5 48.7334833,2.5 Z M12.2665167,9.5 L48.7334833,9.5 C52.9980396,9.5 56.5,12.9976301 56.5,17.2525853 L56.5,50.7474147 C56.5,55.0023699 52.9980396,58.5 48.7334833,58.5 L12.2665167,58.5 C8.00196037,58.5 4.5,55.0023699 4.5,50.7474147 L4.5,17.2525853 C4.5,12.9976301 8.00196037,9.5 12.2665167,9.5 Z" id="Stroke-1" fill="#e6007e" fill-rule="nonzero"></path>
+                <path d="M18,-2.5 C19.8685634,-2.5 21.3951264,-1.0357224 21.4948211,0.807964797 L21.5,1 L21.5,13 C21.5,14.9329966 19.9329966,16.5 18,16.5 C16.1314366,16.5 14.6048736,15.0357224 14.5051789,13.1920352 L14.5,13 L14.5,1 C14.5,-0.932996624 16.0670034,-2.5 18,-2.5 Z" id="Stroke-3" fill="#e6007e" fill-rule="nonzero"></path>
+                <path d="M42,-2.5 C43.8685634,-2.5 45.3951264,-1.0357224 45.4948211,0.807964797 L45.5,1 L45.5,13 C45.5,14.9329966 43.9329966,16.5 42,16.5 C40.1314366,16.5 38.6048736,15.0357224 38.5051789,13.1920352 L38.5,13 L38.5,1 C38.5,-0.932996624 40.0670034,-2.5 42,-2.5 Z" id="Stroke-5" fill="#e6007e" fill-rule="nonzero"></path>
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Clip-8"></g>
+                <polygon id="Fill-7" fill="#e6007e" mask="url(#mask-3)" points="18 28 23 28 23 23 18 23"></polygon>
+                <polygon id="Fill-9" fill="#e6007e" mask="url(#mask-3)" points="28 28 33 28 33 23 28 23"></polygon>
+                <polygon id="Fill-10" fill="#e6007e" mask="url(#mask-3)" points="18 39 23 39 23 34 18 34"></polygon>
+                <polygon id="Fill-11" fill="#e6007e" mask="url(#mask-3)" points="28 39 33 39 33 34 28 34"></polygon>
+                <polygon id="Fill-12" fill="#e6007e" mask="url(#mask-3)" points="18 50 23 50 23 45 18 45"></polygon>
+                <polygon id="Fill-13" fill="#e6007e" mask="url(#mask-3)" points="28 50 33 50 33 45 28 45"></polygon>
+                <polygon id="Fill-14" fill="#e6007e" mask="url(#mask-3)" points="39 28 44 28 44 23 39 23"></polygon>
+                <polygon id="Fill-15" fill="#e6007e" mask="url(#mask-3)" points="39 39 44 39 44 34 39 34"></polygon>
+                <polygon id="Fill-16" fill="#e6007e" mask="url(#mask-3)" points="39 50 44 50 44 45 39 45"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

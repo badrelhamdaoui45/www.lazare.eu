@@ -1,0 +1,13 @@
+div#multiple-select-container-1, #multiple-select-container-2 {
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+form#form-page-han .alert, form#form-page-hanpop .alert {
+    background-color: #e4f5ba;
+    border: 2px solid #cbdaa5;
+    color: #79913C;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+  }
